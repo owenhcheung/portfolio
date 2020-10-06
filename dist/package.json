@@ -1,10 +1,10 @@
 {
-  "name": "loopie-designsystem",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "This is a sample project using the [7-1 architecture pattern](http://sass-guidelin.es/#architecture) and sticking to [Sass Guidelines](http://sass-guidelin.es) writing conventions.",
-  "main": "index.js",
+  "description": "personal site for Owen Cheung",
+  "main": "",
   "dependencies": {
-    "dart-sass": "^1.23.0"
+    "dart-sass": "^1.25.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HugoGiraudel/sass-boilerplate.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HugoGiraudel/sass-boilerplate/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/HugoGiraudel/sass-boilerplate#readme"
+  "homepage": ""
 }

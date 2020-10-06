@@ -1,0 +1,49 @@
+.nav-container {
+    white-space: nowrap;
+    border-bottom: 2px solid $light-grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.links {
+    display: flex;
+    justify-content: flex-start;
+}
+.user {
+    display: flex;
+    justify-content: flex-end;
+}
+.nav {
+    height: 100%;
+    .feather-icon {
+        margin-right: 6px;
+
+    }
+    .selected {
+        p {
+            color: $blue;
+        }
+    }
+}
+.item-1 {
+    margin-right: 30px;
+
+}
+.item-2 {
+    margin-right: 30px;
+
+}
+.item-3 {
+    margin-right: 30px;
+
+}
+.item-4 {
+    margin-right: 30px;
+
+}
+.item-5 {
+    justify-content: flex-end;
+    p {
+        color: $blue;
+    }
+}

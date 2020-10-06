@@ -14,23 +14,4 @@
 @import
   'base/base',
   'base/fonts',
-  'base/grid',
-  'base/typography';
-
-// 4. Layout-related sections
-@import
-  'layout/nav',
-  'layout/filter',
-  'layout/orders',
-  'layout/show';
-
-// 5. Components
-
-
-// 6. Page-specific styles
-@import
-  'pages/home';
-
-// 7. Themes
-@import
-  'themes/default';
+  'base/layout';

@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/owenhcheung/portfolio.git"
   },
   "author": "",
   "license": "ISC",

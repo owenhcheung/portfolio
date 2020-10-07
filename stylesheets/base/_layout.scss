@@ -9,6 +9,7 @@
         grid-row: row1 / row2;
         display: flex;
         justify-content: space-between;
+        align-items: baseline;
         line-height: 1;
         .logo {
             display: flex;

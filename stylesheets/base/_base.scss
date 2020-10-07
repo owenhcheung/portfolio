@@ -1,7 +1,7 @@
 // -----------------------------------------------------------------------------
 // This file contains very basic styles.
 // -----------------------------------------------------------------------------
-html {
+html, body {
   box-sizing: border-box;
   height: 100%;
   width: 100%;
@@ -10,11 +10,22 @@ html {
   font-family: 'Agrandir', sans-serif;
 }
 *,
-*::before,
+::before,
 *::after {
   box-sizing: inherit;
 }
 a {
   text-decoration: none;
 }
-
+.nav {
+  font-size: 1.5em;
+}
+.dash {
+  flex-grow: 1;
+  display: inline-block;
+  height: 1px;
+  min-width: 2rem;
+  max-width: 3rem;
+  background-color: #000;
+  margin: auto 1rem;
+}
